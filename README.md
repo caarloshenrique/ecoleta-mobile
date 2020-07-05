@@ -15,6 +15,11 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Styled-Components](https://styled-components.com/)
 {...}
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
