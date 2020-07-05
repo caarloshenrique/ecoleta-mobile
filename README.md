@@ -25,7 +25,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ### :bug: Back-end
 #### Configuração
 ```
-$ cd ecoleta-api
+$ cd ecovid-api
 $ npm install
 $ npm run knex:migrate
 $ npm run knex:seed
@@ -34,6 +34,21 @@ $ npm run knex:seed
 ```
 $ npm run dev
 ```
+
+
+### :cyclone: Front-end
+#### Configuração
+
+```
+$ cd ecoleta-app
+$ npm install
+```
+#### Execução
+```
+$ expo start
+```
+
+
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
