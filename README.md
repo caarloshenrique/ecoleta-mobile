@@ -20,6 +20,21 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 
+## :fire: Executando a aplicação
+
+### :bug: Back-end
+#### Configuração
+```
+$ cd ecoleta-api
+$ npm install
+$ npm run knex:migrate
+$ npm run knex:seed
+```
+#### Execução
+```
+$ npm run dev
+```
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
