@@ -1,5 +1,5 @@
 # ecovid-mobile
-Um marketplace para conectar comerciantes de EPI e consumidores de forma eficiente.
+:round_pushpin: Um marketplace para conectar comerciantes de EPI e consumidores de forma eficiente.
 
 ## :rocket: Tecnologias utilizadas
 
