@@ -1,5 +1,5 @@
-# boletim-epidemiologico-mobile
-Um boletim epidemiológico desenvolvido com React Native
+# ecovid-mobile
+Um marketplace para conectar comerciantes de EPI e consumidores de forma eficiente.
 
 ## :rocket: Tecnologias utilizadas
 
