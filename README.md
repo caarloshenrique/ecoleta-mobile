@@ -7,12 +7,14 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 - [NodeJS](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
-- [Sequelize ORM](https://sequelize.org/)
+- [Celebrate](https://www.npmjs.com/package/celebrate)
+- [SQLite 3](https://www.sqlite.org/index.html)
+- [KnexJS](http://knexjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
-- [Styled-Components](https://styled-components.com/)
 {...}
 
 ## :rocket: Recursos nativos utilizados
