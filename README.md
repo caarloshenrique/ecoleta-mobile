@@ -58,6 +58,7 @@ $ npm install
 ```
 $ expo start
 ```
+:warning: Caso o build apresente erros com as fontes Ubuntu e Roboto execute o comando: :warning:
 ```
 expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
