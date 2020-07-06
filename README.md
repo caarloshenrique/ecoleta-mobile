@@ -47,7 +47,9 @@ $ npm install
 ```
 $ expo start
 ```
-
+```
+expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+```
 
 
 ## :page_facing_up: Licença 
