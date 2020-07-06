@@ -1,5 +1,5 @@
-# ecovid-mobile
-:round_pushpin: Um marketplace para conectar comerciantes de EPI e consumidores de forma eficiente.
+# ecoleta-mobile
+:recycle: Um marketplace para conectar conectar pessoas a empresas que coletam resíduos específicos
 
 ## :rocket: Tecnologias utilizadas
 
