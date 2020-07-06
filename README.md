@@ -15,6 +15,12 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Styled-Components](https://styled-components.com/)
 {...}
 
+## :rocket: Recursos nativos utilizados
+
+- [Location]
+- [URL WhatsApp]
+- [MailComposer]
+
 ## :clipboard: Pré-requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
