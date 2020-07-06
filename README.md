@@ -25,7 +25,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ### :bug: Back-end
 #### Configuração
 ```
-$ cd ecovid-api
+$ cd ecoleta-api
 $ npm install
 $ npm run knex:migrate
 $ npm run knex:seed
