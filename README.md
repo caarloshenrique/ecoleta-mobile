@@ -1,5 +1,5 @@
 # ecoleta-mobile
-:recycle: Um marketplace para conectar conectar pessoas a empresas que coletam resíduos específicos
+:recycle: Um marketplace para conectar pessoas a empresas que coletam resíduos específicos
 
 ## :rocket: Tecnologias utilizadas
 
