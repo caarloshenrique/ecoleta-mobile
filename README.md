@@ -1,6 +1,16 @@
 # ecoleta-mobile
 :recycle: Um marketplace para conectar pessoas a empresas que coletam resíduos específicos
 
+<p align="center">
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-recursos-nativos-utilizados">Recursos Nativos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dart-api-utilizadas">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-pré-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#fire-executando-a-aplicação">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-interfaces">Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-licença">Licença</a>
+</p>
+
 ## :rocket: Tecnologias utilizadas
 
 O projeto foi feito utilizando as seguintes tecnologias:
