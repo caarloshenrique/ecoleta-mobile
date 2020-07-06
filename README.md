@@ -20,6 +20,10 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Location](https://docs.expo.io/versions/latest/sdk/location/)
 - [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 
+## :rocket: API utilizadas
+- [IBGE API](https://servicodados.ibge.gov.br/api/docs)
+- [WhatsApp API](https://www.whatsapp.com/business/)
+
 ## :clipboard: Pré-requisitos
 
 - [NodeJS LTS (ou superior)](https://nodejs.org/en/)
