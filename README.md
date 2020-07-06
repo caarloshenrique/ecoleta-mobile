@@ -18,8 +18,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 ## :rocket: Recursos nativos utilizados
 
 - [Location](https://docs.expo.io/versions/latest/sdk/location/)
-- [URL WhatsApp]
-- [MailComposer]
+- [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 
 ## :clipboard: Pré-requisitos
 
