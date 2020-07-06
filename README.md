@@ -63,6 +63,22 @@ $ expo start
 expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 
+## :iphone: Interfaces
+
+### :bust_in_silhouette: Autenticação e Cadastro
+
+<p align="center">
+    <img width="300" height="600" src="/ecoleta-app/assets/signin.PNG">
+    <img width="300" height="600" src="/ecoleta-app/assets/signup.PNG">
+</p>
+
+### :round_pushpin: Mapa, Detalhes, Edição e Exclusão
+
+<p align="center">
+    <img width="300" height="600" src="/ecoleta-app/assets/home.PNG">
+    <img width="300" height="600" src="/ecoleta-app/assets/detail.PNG">
+  <img width="300" height="600" src="/ecoleta-app/assets/edit_profile.PNG">
+</p>
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
