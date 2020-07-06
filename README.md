@@ -17,12 +17,12 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Axios](https://github.com/axios/axios)
 {...}
 
-## :rocket: Recursos nativos utilizados
+## :iphone: Recursos nativos utilizados
 
 - [Location](https://docs.expo.io/versions/latest/sdk/location/)
 - [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 
-## :rocket: API utilizadas
+## :dart: API utilizadas
 - [IBGE API](https://servicodados.ibge.gov.br/api/docs)
 - [WhatsApp API](https://www.whatsapp.com/business/)
 
