@@ -59,7 +59,6 @@ $ npm run dev
 
 ### :cyclone: Front-end
 #### Configuração
-
 ```
 $ cd ecoleta-app
 $ npm install
@@ -68,6 +67,8 @@ $ npm install
 ```
 $ expo start
 ```
+Altere o endereço de IP no arquivo `api` localizado em `ecoleta-mobile/ecoleta-app/src/services/api.ts` para o endereço de IP exibido nos dados de conexão após executar Expo.
+
 :warning: Caso o build apresente erros com as fontes Ubuntu e Roboto execute o comando: :warning:
 ```
 expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
